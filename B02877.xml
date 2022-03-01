@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to some queries in Mr. Whites notes</title>
+            <author>Franciscus a Sancta Clara, 1598-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02877</idno>
+            <idno type="STC">Wing D350B</idno>
+            <idno type="STC">ESTC R175907</idno>
+            <idno type="EEBO-CITATION">52212009</idno>
+            <idno type="OCLC">ocm 52212009</idno>
+            <idno type="VID">175637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175637)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to some queries in Mr. Whites notes</title>
+                  <author>Franciscus a Sancta Clara, 1598-1680.</author>
+               </titleStmt>
+               <extent>26p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>White, Thomas, 1593-1676. --  Notes on Mr. F.D.'s Result of a dialogue concerning the middle state of souls.</term>
+               <term>Purgatory --  History of doctrines --  Early works to 1800.</term>
+               <term>Fathers of the church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175637:1" rendition="simple:additions"/>
+            <head>AN ANSWER To ſome Queries in Mr. <hi>Whites</hi> Notes.</head>
+            <opener>
+               <salute>Moſt Honoured Sir,</salute>
+            </opener>
+            <p>NOw I receive a Preſent from you, which finds me ſo much preingaged in a ſub<g ref="char:EOLhyphen"/>ject of greater concern, that I can hardly diſpence with ſo much time, as dili<g ref="char:EOLhyphen"/>gently to peruſe it; you
+<pb n="2" facs="tcp:175637:2"/>will accept this ſhort an<g ref="char:EOLhyphen"/>ſwer to the moſt conſide<g ref="char:EOLhyphen"/>rable doubts, I obſerve diſperſed in your Notes.</p>
+            <p>FIRST,<lb/> You ſay in your firſt Chapter that I Challenge the Fathers for my cauſe without alleadging any. Whereas in that place be<g ref="char:EOLhyphen"/>ing only praeliminary, as to them, I only refer the rea<g ref="char:EOLhyphen"/>der to <hi>St. John Damaſcen,</hi> who exactly weighs them, as alſo <hi>Gennadius</hi> doth, be<g ref="char:EOLhyphen"/>ing both Greeks: to whom you may pleaſe to add (ſince you are impatient to expect their due place) great <hi>Athanaſius</hi> in his que<g ref="char:EOLhyphen"/>ſtions
+<pb n="3" facs="tcp:175637:2"/>to <hi>Antiochus,</hi> where he propounds your very que<g ref="char:EOLhyphen"/>ſtion, &amp; gives the Church<g ref="char:EOLhyphen"/>es anſwer; alſo St. <hi>Cyril,</hi> in his Myſtagogical Cateche<g ref="char:EOLhyphen"/>ſes, where he comes home, theſe you know are Greeks of whom you make moſt difficulty. I wonder very much after, when I drew out the pith out of St. <hi>Au<g ref="char:EOLhyphen"/>guſtines</hi> Care of the dead, (which moſt perfectly ſpeaks our Doctrine) that you ſay as if you were in haſt, <hi>per tranſennam,</hi> you a<g ref="char:EOLhyphen"/>gree to all, whereas in truth you deny all. The Rea<g ref="char:EOLhyphen"/>der will obſerve it. You ſay in another place that he
+<pb n="4" facs="tcp:175637:3"/>
+               <hi>ad Dulcitium</hi> acknowledg<g ref="char:EOLhyphen"/>eth this queſtion of the ſouls relief to be never yet heard of: the truth is, he knew not how the Almigh<g ref="char:EOLhyphen"/>ty would be ſatisfied, whe<g ref="char:EOLhyphen"/>ther by temporal puniſh<g ref="char:EOLhyphen"/>ments here, as ſurely in ſome it is, or whether here<g ref="char:EOLhyphen"/>after, as it is in others, but he never doubted of that effect of prayers in order to each. After you preſſe harder, &amp; with more bit<g ref="char:EOLhyphen"/>ing Language, than I ſuſ<g ref="char:EOLhyphen"/>pected. Second.</p>
+            <p>You ſay you are ſurpri<g ref="char:EOLhyphen"/>zed at my believing S. <hi>Iohn Damaſcens</hi> relation of the dead heads ſpaking againſt
+<pb n="5" facs="tcp:175637:3"/>your doctrine of the ſoules relief in <hi>Purgatory.</hi> I muſt confeſſe that I read the Saints with ſo great Reve<g ref="char:EOLhyphen"/>rence, eſpecially ſuch, whoſe Religion and learn<g ref="char:EOLhyphen"/>ing are Solemnly Celebra<g ref="char:EOLhyphen"/>ted in the Church, as he is for both, that if I ſhould find any ſeeming warts of humane infirmity, as our learned Countryman <hi>Wal<g ref="char:EOLhyphen"/>denſis</hi> ſaith of Councels, I willingly do not ſee them but with a Chriſtian bluſh endeavour to cover their nakedneſſe with modeſt gloſſes: and this I have learned in <hi>Athanatius</hi> to<g ref="char:EOLhyphen"/>ward <hi>Dioniſius Alexand.</hi>
+               <pb n="6" facs="tcp:175637:4"/>St. <hi>Auguſtine</hi> to St. <hi>Cyprian,</hi> St. <hi>Hierome</hi> to many, rather then the Church ſhould looſe ſuch great men for the ſlip of a pen againſt their own intentions.</p>
+            <p>But as to this paſſage of St. <hi>John Damaſcen,</hi> I am not enforced to apply any ſuch lenitives. For why could not a dead Heathens ſkull anſwer in confirmation of a Chriſtian truth in the name of the dead to great St. <hi>Macharius,</hi> (as St. <hi>John Damaſcen</hi> cals him) though himſelf was not concerned in the cauſe, as well as a Heathens ſkull, anſwer in preſence of all the people in declaration of our Holy
+<pb n="7" facs="tcp:175637:4"/>Faith, being aſked by a holy <hi>Monk</hi> againſt <hi>Eunomi<g ref="char:EOLhyphen"/>us</hi> his riſing Hereſie, where<g ref="char:EOLhyphen"/>in he was leſſe concerned? which without Controul is aſſerted in <hi>John Caſſian,</hi> &amp; others, &amp; being publick cannot be denyed? <hi>Saints have Priviledges above our reaches;</hi> it was a more in credible buſineſſe for <hi>Bala<g ref="char:EOLhyphen"/>ams</hi> Aſs to ſpeak unask'd. <hi>Ariſtotle</hi> will deny this, not <hi>St. Auguſtine.</hi>
+            </p>
+            <p>I will not enter the liſts to examine St. <hi>Cyrils</hi> παντῶν ἀπλῶσ, when he ſaith, they prayed in ſome ſuffrages for all ſorts of dead, its true according to Gods ordina<g ref="char:EOLhyphen"/>ry Laws; there is no re<g ref="char:EOLhyphen"/>demption
+<pb n="8" facs="tcp:175637:5"/>in Hell. But it is not ſo certain in ſomes Judgments that there may not be a relevation; you know ſome have prayed, that <hi>mitigatior fiat poena,</hi> but I am not compelled to aſſert ſuch Singularities, only <hi>en paſſent</hi> remind your reading, St. <hi>Gregories</hi> rela<g ref="char:EOLhyphen"/>tion of <hi>Trajans</hi> ſoul is farr higher then this of St. <hi>Da<g ref="char:EOLhyphen"/>maſcen,</hi> yet it is Solemnly recounted by the Greeks in the Council of <hi>Florence;</hi> and the truth not queſtio<g ref="char:EOLhyphen"/>ned. I dare not therefore <hi>Ariſtachus</hi> like attribute ſo much to others <hi>Criticiſmes</hi> as to queſtion the truth, <seg type="catchword">but</seg>
+               <pb n="9" facs="tcp:175637:5"/>rather with the Greeks acknowledge a great mi<g ref="char:EOLhyphen"/>racle in the effect of pray<g ref="char:EOLhyphen"/>ers for the dead.</p>
+            <p>No ingenious perſon who is converſant in St. <hi>John Damaſcens</hi> ſpirit, ſtile, and devotion, can at all que<g ref="char:EOLhyphen"/>ſtion the work to be his, which was ſo acknowledg<g ref="char:EOLhyphen"/>ed in the Coun. of <hi>Florence,</hi> though <hi>Cooke</hi> &amp; <hi>Rivet</hi> are prodigal upon any terms to deny the Fathers works, as St. <hi>Auguſtine</hi> tells us, the <hi>Manichees</hi> did the Scrip<g ref="char:EOLhyphen"/>tures, where they thwarred with their errours. I wiſh you would not truſt them, for they will deceave you;
+<pb n="10" facs="tcp:175637:6"/>yet I am glad, that you acknowledge <hi>St. Hierome</hi> to allow the Hiſtory.</p>
+            <p>And truely though the Hiſtories of <hi>Trajans</hi> delive<g ref="char:EOLhyphen"/>ry, or of this dead mans an<g ref="char:EOLhyphen"/>ſwer were not true, yet the ſolemne bringing them without reſiſtance in the Council, abundantly ſerve my deſign; becauſe they declare the ſenſe of the Greek Church, as to the Churches <hi>Tenet</hi> of eaſing ſouls before the great day.</p>
+            <p>Where you muſt alſo further obſerve, that the <hi>Greeks</hi> in the council grant, that the whole Greeke Church, as well as Latins,
+<pb n="11" facs="tcp:175637:6"/>believed, that <hi>ad nonnullo<g ref="char:EOLhyphen"/>rum peccatorum abſolutionem mortuis preces, ſupplicationeſ<g ref="char:EOLhyphen"/>que pro apſis magnopere con<g ref="char:EOLhyphen"/>ducant;</hi> And that they un<g ref="char:EOLhyphen"/>derſtand this abſolution to be before the laſt day, is cleare; for afterwards weighing <hi>St. Gregories</hi> Di<g ref="char:EOLhyphen"/>alogues, they aſſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with him, and moſt manifeſtly in his ſenſe, that after death, th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is, at the obla<g ref="char:EOLhyphen"/>tion o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Churches ſuffrag<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, their ſins are re<g ref="char:EOLhyphen"/>mitted, and they ſpeak al<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies in <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e of the whole Greek Church; ſo that as to this they agreed with the <hi>Latins,</hi> &amp; there<g ref="char:EOLhyphen"/>fore
+<pb n="12" facs="tcp:175637:7"/>they durſt not deny thoſe examples, which you ſo much undervalue, but eſteem <hi>Trayans</hi> and others delivery from Hell, to be miraculous, rather then queſtion the efficacy of ſuch holy Perſons prayers, or a relief before the laſt day. I read theſe paſſages in the Orations of the <hi>Greekes</hi> in the Council, publiſhed in Greek in <hi>Holland,</hi> ſurely not to be ſuſpected as to this.</p>
+            <p>But you admit not <hi>St. Gregories</hi> Dialogues to be his, upon <hi>Photius</hi> his au<g ref="char:EOLhyphen"/>thority, though <hi>St. Ildel<g ref="char:EOLhyphen"/>phonſus,</hi> almoſt contempo<g ref="char:EOLhyphen"/>rary
+<pb n="13" facs="tcp:175637:7"/>with him, in L. <hi>de viris illuſtribus,</hi> and after <hi>St. Iſi<g ref="char:EOLhyphen"/>dore</hi> of the ſame ſubject, connumerate this with the reſt of his Workes: ſo venerable <hi>Bede, St. John Da<g ref="char:EOLhyphen"/>maſcen,</hi> and all writes, Geek, and Latine.</p>
+            <p>
+               <hi>Photius,</hi> the truth, is much eſteemed theſe books and peradventure could gladly have attributed them to his Countreyman againſt the ſenſe of all the world. I have read him intirely heretofore, but I remember not every parti<g ref="char:EOLhyphen"/>cular in him. As to the points themſelves in St. <hi>Gregory,</hi> I have given you <seg type="catchword">the</seg>
+               <pb n="14" facs="tcp:175637:8"/>ſence of the <hi>Greeke</hi> Church which is enough to my deſign. Third,</p>
+            <p>Whereas you ſay, that if the words of the Fathers, by which they <hi>Attribute purging of ſouls to the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire of Judgement, be not beyond conteſt, I will yeild the whole cauſe.</hi> This is not the queſtion, whether Fathers have aſſerted ſuch a pur<g ref="char:EOLhyphen"/>gation, but whether they have admitted no other, which you aſſert: and if they ſay this, not I but the Church hath loſt the cauſe: which alone may ſuffice as anſwer to the Fathers for the ſole purgation at the
+<pb n="15" facs="tcp:175637:8"/>general conflagration. I ſaid it is eaſie to <hi>elude</hi> the Fathers by voluntary gloſ<g ref="char:EOLhyphen"/>ſes out of blaſted Authours, you interprete me as if I had ſaid, it were ea<g ref="char:EOLhyphen"/>ſie to <hi>anſwer</hi> the Fathers by ſuch gloſſes, the reader will obſerve this not to be fair. Fourth,</p>
+            <p>There is one conſidera<g ref="char:EOLhyphen"/>ble objection, which you hint at: what the poor ſhall do, who have not ſuch helps. <hi>St. Auguſtine</hi> in this care of the dead, <hi>c.</hi> 4. ſayes, the Church prays for all in Purgatory, to provide for ſuch, who have not other helps; and truly
+<pb n="16" facs="tcp:175637:9"/>ſince <hi>St. Auguſtine</hi> rightly ſays, that none are helped, but <hi>qui meruerunt, ut ſibi prodeſſe poſſint;</hi> no doubt but the degrees of their helpes are anſwerable to their merits: ſo that in Gods Counting Houſe, doubtleſs there is an ap<g ref="char:EOLhyphen"/>plication of the Church ſuffrages ſo largely to ſome that they are ſooner helped by them, then many rich by the ſuperaddition of o<g ref="char:EOLhyphen"/>ther aſſiſtances, which yet if they ſhould not pro<g ref="char:EOLhyphen"/>vide for by Almes-deeds <hi>&amp;c.</hi> They relying on others, when they could have helped themſelves,
+<pb n="17" facs="tcp:175637:9"/>may render them juſtly leſſe participant of the common Almes-basket, which is reſerved for the poor.</p>
+            <p>Again it is not certain, whether particular ſuffra<g ref="char:EOLhyphen"/>ges, though deſigned for particular perſons, be not taken equally for the ac<g ref="char:EOLhyphen"/>count of the poor, as well as for the rich, you know ſome Divines hold it, they will indeed be available for them for whom they are offered, according to their former merits, with which is conſiſtent, that others have a communca<g ref="char:EOLhyphen"/>tion, as being Co-members
+<pb n="18" facs="tcp:175637:10"/>of the Church: but as to time, or meaſure, we have no aſſurance, being the e<g ref="char:EOLhyphen"/>ffects are not <hi>ex condigno,</hi> or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x <hi>juſtitia,</hi> as I have taught. <hi>Scotus</hi> in his <hi>Quodli<g ref="char:EOLhyphen"/>bets</hi> puts worthily three effects of the holy <hi>Maſſe:</hi> one for the whole Church; one for the Prieſt, one for him, or them, for whom it is offered: ſo that all capa<g ref="char:EOLhyphen"/>ble of help, have benefit by this common oblation, the degrees we know not, only all do not expect Dooms<g ref="char:EOLhyphen"/>day for their help. I pray read <hi>St. Bede</hi> in his Hiſtory <hi>l.</hi> 5. <hi>c.</hi> 13. you ſay he brings relations of others. His
+<pb n="19" facs="tcp:175637:10"/>words are <hi>Multos praeces vi<g ref="char:EOLhyphen"/>ventium &amp; eleemoſynae &amp; jejunia, &amp; maxime celebratio miſſarum, ut ante diem judicii liberentur juvant.</hi> Note <hi>before the day of judgment:</hi> read alſo <hi>Sir Thomas Moore</hi> his whole tract cal'd <hi>ſup<g ref="char:EOLhyphen"/>plication of Souls,</hi> his deſign is to maintain this truth: <hi>That the merits &amp; prayers of good folks for them may miniſh and abridge their pain, &amp;c.</hi> They are his words. Fifth.</p>
+            <p>You wonder how I can aſſert greater puniſhment to a ſoul from many years being in Purgatory, whoſe meaſure is in diviſible. I
+<pb n="20" facs="tcp:175637:11"/>ſhall eaſily declare theſe conſiſtent: for although time is not the meaſure of it; neither doth the coex<g ref="char:EOLhyphen"/>iſtence of time at all in<g ref="char:EOLhyphen"/>creaſe the pains even in bo<g ref="char:EOLhyphen"/>dies, as being holy extrin<g ref="char:EOLhyphen"/>ſical to them both, &amp; yet our pains are longer, if we ſtay longer time, and con<g ref="char:EOLhyphen"/>ſequently greater, as to our bodies; ſo in our ſouls, times coexiſtence is extrin<g ref="char:EOLhyphen"/>ſecal, and ſo augments not intrinſecally the ſufferan<g ref="char:EOLhyphen"/>ces: yet as in bodies, the ſucceſſion, or acceſſion of parts of pain renders paine greater, in which is requi<g ref="char:EOLhyphen"/>red acceſſe of parts of time
+<pb n="21" facs="tcp:175637:11" rendition="simple:additions"/>for the ſpiritual pain being altogether in ſo long time, though it receives no ad<g ref="char:EOLhyphen"/>dition of parts, as in cor<g ref="char:EOLhyphen"/>poral ſufferings, yet here is a <hi>replication</hi> of the whole, as <hi>St. Bonaventure,</hi> &amp; <hi>Scotus</hi> explicate <hi>Aevum,</hi> which renders it ſtrangely great<g ref="char:EOLhyphen"/>er upon longer time. This methinks is eaſily conceav<g ref="char:EOLhyphen"/>able. Sixth.</p>
+            <p>As to priviledged altars, though that is not our preſent controverſie, as not nearly touching Faith, yet I preſent you my appre<g ref="char:EOLhyphen"/>henſions of the ground of that practiſe. Many great Divines, as you know, ſuch
+<pb n="22" facs="tcp:175637:12"/>as our <hi>Corduba</hi> in his queſtio<g ref="char:EOLhyphen"/>nary, <hi>Sotus,</hi> &amp; others, are of o<g ref="char:EOLhyphen"/>pinion, that the efficacy of the holy Sacrifice of <hi>Maſſe,</hi> is ſo great, though only by way of ſuffrage to the dead, th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we may ſtrongly hope for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> e<g ref="char:EOLhyphen"/>ffect aimed at; others more nu<g ref="char:EOLhyphen"/>merous, hold alſo that even by way of divine promiſe, the effect is certain to the dead. And truly when I read St. <hi>Ephrem,</hi> &amp; others of the ancient, methinks they incline to it ſuppoſing then this to be probable out of ſo great authorities, in order to the opinion it ſelf; if to it be ſuper<g ref="char:EOLhyphen"/>added the Supreme power in the Church in order to appli<g ref="char:EOLhyphen"/>cation of Gods promiſe herein, as is done in thoſe caſes, though peradventure only by way of ſuffrage, methinks its clear, that
+<pb n="23" facs="tcp:175637:12"/>the Popes in ſuch graunts, may rationally be preſumed to pro<g ref="char:EOLhyphen"/>ceed upon probable grounds, which, as I have taught in my <hi>Enchyridion,</hi> is enough to ſecure Eccleſiaſtical and civil Magi<g ref="char:EOLhyphen"/>ſtrates, in their practical re<g ref="char:EOLhyphen"/>ſults. As to the mercenary part, it concerns particulars, with whom I meddle not, leaſt St. <hi>Peter</hi> ſhould quarter me a<g ref="char:EOLhyphen"/>mongſt his ἀλλοτριεπισκοπόυντεσ</p>
+            <p>As concerning ſupernume<g ref="char:EOLhyphen"/>rary Prieſts, it is no leſſe out of my cognizance; I remember St. <hi>Auguſtine</hi> attributes the de<g ref="char:EOLhyphen"/>ſires of ſo very many Chriſtians of his time to be Prieſts to their reverence &amp; devotion of Prieſt<g ref="char:EOLhyphen"/>hood, why may we not judge as charitable of theſe?</p>
+            <p>Whereas you hint I do not take notice of your Reaſons.
+<pb n="24" facs="tcp:175637:13"/>The unbiaſſed reader will find anſwers to every conſiderable reaſon in particular of your former book, though in that be<g ref="char:EOLhyphen"/>ing not deſigned againſt it, they are <hi>pro re nata</hi> only inciden<g ref="char:EOLhyphen"/>tally couched in the body, but as I conceive not leſs energical<g ref="char:EOLhyphen"/>ly for being modeſtly hinted.</p>
+            <p>Your other notes though they every where ſavour of your eminent parts, adminiſter only matter of repetition or unneceſſary explication, if du<g ref="char:EOLhyphen"/>ly paralleld to each Chapter; I have not leaſure to be ſuper<g ref="char:EOLhyphen"/>fluous, &amp; therefore I deſire your pardon, if I wholy deſiſt from further treating this ſubject, though never from being.</p>
+            <pb n="25" facs="tcp:175637:13"/>
+            <p> You <hi>ſeem</hi> indeed to re<g ref="char:EOLhyphen"/>mit of your former rigour as to reliefe though not to releaſe of ſouls by prayer: yet by reaſon firſt that it depends on putting the effect before the cauſe. Se<g ref="char:EOLhyphen"/>condly, on putting more force on the foreknowledg of the future operation of the cauſe then upon the real operation of the cauſe it ſelf when it exiſts, for then it hath no effect for fear of changing a ſoul. Thirdly, the very fore<g ref="char:EOLhyphen"/>knowledge it ſelf being of the ſecret decrees of God not only in order to an acceptance, but even of
+<pb n="26" facs="tcp:175637:14"/>the degrees of acceptance of future prayers, for the ſoul is purely ground<g ref="char:EOLhyphen"/>leſs. Laſtly whatſoever this relief is in reality (though in apprehenſion you put it ſooner) it is not to be had till Dooms day. I propound it to your fur<g ref="char:EOLhyphen"/>ther reflection, whether the whole machine be not inſignificative as to the real ſenſe of the Church &amp; of all Chriſtians in their prayers.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your faithful Servant, <hi>F. D.</hi>
+               </signed> 
+               <dateline>
+                  <date>March, 26.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
